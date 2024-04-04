@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZku/4/VauUm89qLcn+dnyDLF86X/ytSm+ku88damhD3PDYnsbNrsrqZ0NBqYq/wI0Qgwi0h8/+9jVsSxxlMtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\.NetProjetcs\\Dapper\\API\\CrudWebApiAsync\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
